@@ -1,18 +1,18 @@
 Hi there 👋
 
-Welcome to my Github page! I am Abhishek Nene, a professional software developer with above 6 years experience..
+Welcome to my Github page! I am Abhishek Nene, a professional software developer with above 8 years experience..
 
 🦾 Things I am currently challenging myself with:
 Learning new technologies and languages 💠
 Taking up new projects ⚒️
-Learning ReactJs 
+Learning Angular 
 💻 Programming languages and tools I'm learning and developing:
 
-C# .NET JavaScript MSSQL
+C# .NET Web API MSSQL
 
 RPA API Development DesktopApps WebApps
 
-Nodejs ReactJs EcmaScript
+Angular framework
 
 Officejs Officeaddins MSOffice Office365 Add-in Express
 
